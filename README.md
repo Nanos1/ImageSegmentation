@@ -1,5 +1,5 @@
 # ImageSegmentation
-My Thesis for the postgraduate MSc "***Machine Learning and Data Scince***" at the School of ***Electrical and Computer Engineering*** at the ***National Technical University of Athens***: ****Study of image segmentation models on different datasets****
+My Thesis for the postgraduate MSc "***Machine Learning and Data Scince***" at the School of ***Electrical and Computer Engineering*** at the ***National Technical University of Athens***: ***Study of image segmentation models on different datasets***
 
 The process of segmenting an image into different regions or objects is a critical step in computer vision and image analysis. In recent years, deep learning-based image segmentation models have demonstrated remarkable performance on various benchmark datasets. 
 
